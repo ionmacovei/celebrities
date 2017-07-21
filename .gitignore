@@ -16,3 +16,8 @@ build/
 .groovy
 *~
 \#*
+.idea/
+target/
+build.gradle
+gradlew
+gradlew.bat
